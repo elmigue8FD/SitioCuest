@@ -3,11 +3,6 @@ Plataforma hecha para que puedas crear cuestionarios ideada para estudiantes que
 
 Comandos para GitHub
 
- SitioCuest
-Plataforma hecha para que puedas crear cuestionarios ideada para estudiantes que requieren de generar cuestionarios para 
-
-estudiar.
-
 Configurar git
 
 $ git config --global user.name "John Doe"
